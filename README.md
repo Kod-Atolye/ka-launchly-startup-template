@@ -1,108 +1,217 @@
-# KA-Launchly
+# KA-Launchly – Startup & SaaS Website Template
 
-KA-Launchly is a premium multi-page Startup & SaaS Website Template built with HTML5, TailwindCSS and Vanilla JavaScript.
+KA-Launchly is a modern **Startup & SaaS website template** designed for technology startups, SaaS platforms, AI tools and digital products.
+It provides a clean and premium user interface with a fully responsive layout and a scalable component system.
 
-## Highlights
+Built with **HTML5, TailwindCSS and Vanilla JavaScript**, KA-Launchly is lightweight, easy to customize and suitable for modern product websites.
 
-- 30+ polished pages for startup, SaaS, AI and software product websites
-- Dark and light mode support
-- Sticky glassmorphism navbar and premium card system
-- Reusable UI kit with buttons, pricing tables, tabs, dropdowns, accordion, modal and form patterns
-- Blog, docs, auth, company and utility pages included
-- Minimal JavaScript for reveal animations, theme toggle, tabs, accordion, dropdowns, modals and dashboard charts
+---
 
-## Tech Stack
+## 🚀 Live Demo
 
-- HTML5
-- TailwindCSS via CDN
-- Vanilla JavaScript
-- Optional vendors loaded via CDN:
-  - Chart.js
-  - Swiper.js
+**Preview the template:**
 
-## Build / Regenerate
+https://demo.kodatolye.com.tr/ka-launchly/
 
-```bash
-node scripts/build-site.mjs
-```
+---
 
-## File Structure
+## 📸 Screenshot
 
-```text
-/assets
-  /css
-  /img
-  /js
-/components
-/pages
-  /auth
-  /blog
-  /docs
-/scripts
-index.html
-README.md
-```
+![KA-Launchly Preview](screenshot/preview.png)
 
-## Pages
+---
 
-### Landing
+## ✨ Features
 
-- `index.html` - Home Landing
-- `pages/saas-landing.html` - SaaS Landing
-- `pages/startup-landing.html` - Startup Landing
-- `pages/ai-product-landing.html` - AI Product Landing
-- `pages/mobile-app-landing.html` - Mobile App Landing
+• Modern Startup & SaaS Design
+• 30+ Ready HTML Pages
+• Fully Responsive Layout
+• Dark & Light Mode Support
+• TailwindCSS Based UI System
+• Clean and Well-Structured Code
+• SEO Friendly HTML Structure
+• Fast Loading & Optimized Performance
+• Reusable UI Components
+• Pricing Tables
+• Testimonials Sections
+• FAQ (Accordion) Components
+• Form & Input Components
+• Sticky Navigation
+• Smooth Scroll Animations
+• Hover Micro Interactions
+• Feature Grid Sections
+• Product Showcase Layouts
+• Integration Sections
+• Blog Pages
+• Documentation Pages
+• Authentication Pages (Login / Register)
+• 404 & Utility Pages
+• Easy Customization
+• Framework Independent Structure
 
-### Product
+---
 
-- `pages/features.html` - Features Page
-- `pages/product-overview.html` - Product Overview
-- `pages/integrations.html` - Integrations Page
-- `pages/use-cases.html` - Use Cases Page
-- `pages/roadmap.html` - Roadmap Page
-- `pages/dashboard.html` - Dashboard Demo
+## 📄 Included Pages
+
+KA-Launchly includes **30+ ready HTML pages**.
+
+### Landing Pages
+
+• Home Landing
+• Startup Landing
+• SaaS Landing
+• AI Product Landing
+• Mobile App Landing
+
+### Product Pages
+
+• Features Page
+• Product Overview
+• Integrations Page
+• Use Cases Page
+• Roadmap Page
 
 ### Pricing
 
-- `pages/pricing.html` - Pricing Page
-- `pages/pricing-comparison.html` - Pricing Comparison
-- `pages/pricing-faq.html` - Pricing FAQ
+• Pricing Page
+• Pricing Comparison
+• Pricing FAQ
 
 ### Blog
 
-- `pages/blog/list.html` - Blog List
-- `pages/blog/grid.html` - Blog Grid
-- `pages/blog/article.html` - Blog Article
+• Blog List
+• Blog Grid
+• Blog Article
 
-### Docs
+### Documentation
 
-- `pages/docs/index.html` - Docs Home
-- `pages/docs/getting-started.html` - Getting Started
-- `pages/docs/api-documentation.html` - API Documentation
-- `pages/docs/changelog.html` - Changelog
+• Docs Home
+• Getting Started
+• API Documentation
+• Changelog
 
-### Auth
+### Authentication
 
-- `pages/auth/login.html` - Login
-- `pages/auth/register.html` - Register
-- `pages/auth/forgot-password.html` - Forgot Password
-- `pages/auth/reset-password.html` - Reset Password
+• Login Page
+• Register Page
+• Forgot Password
+• Reset Password
 
-### Company
+### Company Pages
 
-- `pages/about.html` - About
-- `pages/careers.html` - Careers
-- `pages/contact.html` - Contact
-- `pages/support.html` - Support
+• About Page
+• Careers Page
+• Contact Page
+• Support Page
 
-### Utility
+### Utility Pages
 
-- `pages/404.html` - 404 Page
-- `pages/maintenance.html` - Maintenance Page
-- `components/ui-kit.html` - UI Kit
+• 404 Page
+• Maintenance Page
 
-## Notes
+---
 
-- Replace logos, copy, metadata and contact details with your own brand data.
-- TailwindCSS is loaded from CDN for easy editing. You can replace this with a local build later if desired.
-- The dashboard demo is intentionally lightweight so the startup website remains the main focus.
+## 🧰 Technologies Used
+
+HTML5
+TailwindCSS
+Vanilla JavaScript
+Alpine.js
+Swiper.js
+Chart.js
+Font Awesome
+Google Fonts (Inter / Plus Jakarta Sans)
+
+---
+
+## 📁 Project Structure
+
+ka-launchly/
+
+assets/
+  css/
+  js/
+  img/
+
+pages/
+  blog/
+  docs/
+  auth/
+
+index.html
+README.md
+LICENSE
+
+---
+
+## ⚙️ Customization
+
+KA-Launchly is designed with a **clean and developer-friendly structure**.
+You can easily customize colors, layouts and components.
+
+Using TailwindCSS makes it simple to:
+
+• Change colors and styles
+• Modify layouts
+• Create new UI components
+• Expand existing pages
+
+---
+
+## 📱 Responsive Design
+
+The template is fully responsive and works perfectly on:
+
+• Desktop devices
+• Tablets
+• Mobile phones
+
+Every layout adapts smoothly to different screen sizes.
+
+---
+
+## 🎯 Suitable For
+
+KA-Launchly is ideal for:
+
+• Startup websites
+• SaaS platforms
+• AI tools
+• Software products
+• Mobile app landing pages
+• Tech startups
+• Digital product launches
+• Web agencies and developers
+
+---
+
+## 📜 License
+
+KA-Launchly is a **free template** provided by Kod Atölye.
+
+You may use this template for **personal and commercial projects**.
+
+However:
+
+• Reselling the template is not allowed
+• Redistributing the template as a product is not allowed
+• Publishing it on other marketplaces is not allowed
+
+---
+
+## 🌐 Author
+
+Developed by **Kod Atölye**
+
+Website
+https://kodatolye.com.tr
+
+Demo
+https://demo.kodatolye.com.tr/ka-launchly/
+
+---
+
+## ⭐ Support the Project
+
+If you like this template, please consider giving it a **star on GitHub**.
+It helps the project reach more developers and startups.
