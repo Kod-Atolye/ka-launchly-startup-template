@@ -6,6 +6,11 @@ It provides a clean and premium user interface with a fully responsive layout an
 Built with **HTML5, TailwindCSS and Vanilla JavaScript**, KA-Launchly is lightweight, easy to customize and suitable for modern product websites.
 
 ---
+![License](https://img.shields.io/badge/license-Free-blue)
+![Version](https://img.shields.io/badge/version-1.0-green)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-blue)
+
+---
 
 ## 🚀 Live Demo
 
